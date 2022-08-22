@@ -63,14 +63,16 @@ h1 {
 .infoImage p {
   height: 197px;
   display: inline-block;
-  text-align: left;
+  text-align: justify;
   width: 35%;
-  margin-left: 5%;
+  margin-left: 6%;
 }
 .infoImage img {
-  width: 399px;
-  height: 237px;
-  margin-left: 10%;
+  /* width: 399px;
+  height: 237px; */
+  height: 320px;
+  /* margin-left: 10%; */
+  margin-left: 5%;
 }
 
 /*  sección 3 - caracteristicas  */
@@ -109,7 +111,7 @@ h1 {
 .photosGallery {
   width: 100%;
   display: flow-root;
-  margin-left: 23.5%;
+  margin-left: 12%;
 }
 
 .photos {
